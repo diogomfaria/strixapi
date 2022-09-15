@@ -1,0 +1,2 @@
+# strixapi
+api projeto strix
